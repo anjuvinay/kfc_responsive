@@ -1,0 +1,101 @@
+#header1{
+display: flex;
+justify-content: center;
+}
+.loc{
+    height: 18px;
+    width: 13px;
+}
+.head_text{
+    font-family: "National 2 Regular";
+}
+.btn-dark{
+    height: 1.8 rem;
+    font-size: 12px;
+    width: 7rem;
+    font-family: "National2-Medium";
+}
+#header2{
+    display: flex;
+}
+.nav-link{
+    font-size: 13px;
+}
+.nav-item1{
+   position: absolute;
+   right: 0rem;
+}
+.head_bucket{
+    height: 50px;
+    width: 50px;
+}
+#header3{
+    display: flex;  
+}
+.banner_text{
+    font-family: "National2-Medium";
+}
+.btn-danger{
+    font-family: "National 2 Regular";
+    background-color: #e4002b;
+    width: 10.5rem;
+    height: 2.75rem;
+}
+.banner_img{
+    height: 24rem;
+    width: 100%;
+}
+.category_heading{
+    font-family: "National2-Medium";
+    font-size: 2.2rem; 
+    letter-spacing: -.2rem;
+}
+.card-title{
+    font-family: "National2-Medium";
+}
+.offer_text{
+    font-family: monospace;
+    letter-spacing: -.11rem;
+    word-spacing: -.5rem;
+    position: relative;
+    top: 5rem;
+    left: 12rem;
+}
+.offer_text1{
+    font-family: "National2-Medium";
+    position: relative;
+    top: 6rem;
+}
+.cards-wrapper{
+    display: flex;
+}
+.card{
+    margin: 1em;
+}
+.card-text{
+    font-family: "National 2 Regular";
+    font-size: .92rem;
+    color: #202124;
+    text-align: center;
+    line-height: 20px;
+}
+.adv_button_div{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.btn.btn-outline-dark{
+    margin-left: auto;
+    width: 8rem;
+    height: 3rem;
+    font-size: .82rem;
+}
+.view_details{
+    font-size: .82rem;
+    text-decoration: underline;
+    color: #494949;;
+}
+.no padding{
+    margin: 0;
+    padding: 0;
+}
