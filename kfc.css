@@ -1,3 +1,7 @@
+*{
+    border: 0;
+    box-sizing: border-box;
+}
 #header1{
 display: flex;
 justify-content: center;
@@ -9,10 +13,10 @@ justify-content: center;
 .head_text{
     font-family: "National 2 Regular";
 }
-.btn-dark{
+.btn.btn-dark{
     height: 1.8 rem;
     font-size: 12px;
-    width: 7rem;
+    width: 8rem;
     font-family: "National2-Medium";
 }
 #header2{
