@@ -101,7 +101,7 @@ justify-content: center;
 }
 .btn.btn-outline-dark{
     margin-left: auto;
-    width: 8rem;
+    width: 7rem;
     height: 3rem;
     font-size: .82rem;
 }
@@ -113,4 +113,34 @@ justify-content: center;
 .no padding{
     margin: 0;
     padding: 0;
+}
+li{
+list-style: none;
+font-family: "National 2 Regular";
+font-weight: 500;
+font-size: .84rem;
+font-style: normal;
+line-height: 2rem;
+}
+.find_KFC{
+    color: #fff;
+    font-family: "National 2 Regular";
+    font-style: normal;
+    font-weight: 500;
+    font-size: .82rem;
+    line-height: 2rem;
+}
+.Copyright{
+    font-family: "National 2 Regular";
+    font-size: .81rem;
+    opacity: .9;
+    line-height: 2rem;
+    color: #dbdbdb;
+    justify-content: center;
+    
+}
+.social_media{
+    border-color: #fff;
+    height: 2rem;
+    width: 2rem;
 }
