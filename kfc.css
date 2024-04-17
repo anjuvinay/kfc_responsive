@@ -6,6 +6,10 @@
 display: flex;
 justify-content: center;
 }
+#banner{
+    position: relative;
+    top: 10.1rem;
+}
 .loc{
     height: 18px;
     width: 13px;
